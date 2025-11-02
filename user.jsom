@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Reyz4You",
+    "password": "Dev",
+    "role": "Creator Web",
+    "image": "https://files.catbox.moe/cnrzau.jpeg"
+  },
+  {
+    "username": "reseller",
+    "password": "reseller123",
+    "role": "Reseller",
+    "image": "https://raw.githubusercontent.com/username/repo/main/img/reseller.jpg"
+  },
+  {
+    "username": "visitor",
+    "password": "visitor123",
+    "role": "Pengunjung",
+    "image": "https://raw.githubusercontent.com/username/repo/main/img/visitor.jpg"
+  }
+]
